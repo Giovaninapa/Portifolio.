@@ -1,0 +1,86 @@
+h1 {
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+}
+
+
+h3 {
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+
+.title {
+  margin: 0%;
+}
+
+.rounded-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.Giovani {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1D455C;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.head {
+  margin-top: 50px;
+}
+
+.text {
+  color: #1D455C;
+}
+
+.color {
+  color: #32465D;
+}
+
+.hello {
+  margin-top: 50px;
+}
+
+.info {
+  margin-left: 200px;
+}
+
+.container {
+  margin-top: 50px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.buttton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
